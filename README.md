@@ -12,18 +12,18 @@ $]$$$@@@$$$@@@@%}|:|((}}[]%%$%$%]$@$$@)     . Uptime: ..........................
 %]]$$@@%$@@@@$]{;.               .,,.:,     . Kernel: .............. Business Analysis x Product
 @$$@%$@@$@@$@%[):.                          . IDE: ...................... VS Code, IntelliJ IDEA
 %]@%%$$}{%@@}{[);:.
-$@@@@@@%}]]{{})|;::..                       . Languages.Programming: .. Java, Python, JS, TS, C#
+$@@@@@@%}]]{{})|;::..                       . Languages.Programming:... Java, Python, JS, TS, C#
 @@@@@@@@%%}[[{))|::,...                     . Languages.Computer: ..... HTML, CSS, SQL, Markdown
 @@@@@@@$%$%%]{)(|:,....                     . Languages.Real: ................. English, Sinhala
 ,,:)%@@@@%$$[|,.....       ,,:;;;;:,   ,|(
 ;,,..(]@@@@@[:        .|){]$@@@@@$%{::(][|  . Hobbies.Building: ......... AI tools, AI Workflows
-   ||;;;{%@@(.       :)}]%%]%$@%}}{|.{].    . Hobbies.Writing: ...... LinkedIn + Substack articles
+   ||;;;{%@@(.       :)}]%%]%$@%}}{|.{].    . Hobbies.Writing: .....LinkedIn + Substack articles
   ;(}}:  .(|:        .,:|{{{}[}{)(|: ..
    .|(   .|:,.            ,::,:,,,,         - Contact ──────────────────────────────────────────
 ]:    .,..|)|:,.     ..        .:,          . Website: ..................... sasindujanapriya.me
 @@].  ..;;;(|;;,....,,.       |(,           . LinkedIn: ................... in/sasindu-janapriya
 @@@@(...|{(||;;::,,,,......,:|}{        ;   . X.Twitter: .......................... @sasiiiiindu
-@@@@@%[}[[[}{((|(;:::;|;;|;)[]%@@%]})(|)@$  . Email: ............ sasindujanapriya2002@gmail.com
+@@@@@%[}[[[}{((|(;:::;|;;|;)[]%@@%]})(|)@$  . Email: .............. sasindujanapriya48@gmail.com
 @@@@@@%[[[]][{{{{)())(;;;(]]]{{}]][$@@@@@%
 @@@@@@@%]]]%$%%%]][[}{(({[}(;     )@@@@@$$  - GitHub Stats ─────────────────────────────────────
 @@@@$@@@$%%%$@@@@$%]][}}])||;;;:  %@@@@@$%  . Repos: ......................... 6 | Followers: 15
