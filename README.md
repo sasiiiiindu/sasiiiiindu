@@ -43,6 +43,6 @@ $$@@@@@@@@@@@@@@@@@${@@@@@@@@@@@@@@@@$$@$$
 
 ### 📫 Reach me
 
-[![Website](https://img.shields.io/badge/Website-sasindujanapriya.me-blue?style=flat&logo=googlechrome&logoColor=white)](https://sasindujanapriya.vercel.app)
+[![Website](https://img.shields.io/badge/Website-sasindujanapriya.vercel.app-blue?style=flat&logo=googlechrome&logoColor=white)](https://sasindujanapriya.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sasindu--janapriya-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sasindu-janapriya/)
 [![X](https://img.shields.io/badge/X-@sasiiiiindu-black?style=flat&logo=x)](https://x.com/sasiiiiindu)
